@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654928731 source:c:\users\adones\downloads\c++ project\covid19_system_c++\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+	<string>
+	<unistd.h>
+
